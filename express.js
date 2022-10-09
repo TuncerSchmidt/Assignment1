@@ -7,6 +7,7 @@ app.use(express.static(__dirname));
 app.use(bodyParser.json());
 
 var fs = require('fs');
+//
 
 
 //global variable for tweet data
